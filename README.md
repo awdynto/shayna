@@ -1,4 +1,4 @@
-# lagi
+# Shayna
 
 ## Project setup
 ```
